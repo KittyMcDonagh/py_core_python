@@ -1,4 +1,4 @@
 Flask==1.0.3
 itsdangerous==1.1.0
 virtualenvwrapper==4.8.4
-Werkzeug==0.15.4
+Werkzeug==2.2.3
